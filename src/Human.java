@@ -10,7 +10,6 @@ public class Human {
         currentCity="Информация не указана";
         jobTitle="Информация не указана";
 
-
     }
     Human(int dateOfBirth,
     String name,
